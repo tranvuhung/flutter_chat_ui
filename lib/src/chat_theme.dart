@@ -348,8 +348,8 @@ class DefaultChatTheme extends ChatTheme {
     ),
     super.errorColor = error,
     super.errorIcon,
-    super.inputBackgroundColor = neutral0,
-    super.inputSurfaceTintColor = neutral0,
+    super.inputBackgroundColor = neutral2,
+    super.inputSurfaceTintColor = neutral2,
     super.inputElevation = 0,
     super.inputBorderRadius = const BorderRadius.vertical(
       top: Radius.circular(20),
